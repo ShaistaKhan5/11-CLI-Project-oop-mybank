@@ -1,2 +1,2 @@
-# 11-CLI-Project-oop-mybank
-Cli-Project-Bank
+# Cli-Project-Bank
+Cli Project Bank
